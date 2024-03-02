@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [+234 706 830 1867
-  ['94767939688', 'Dinuwa Official²⁰²³', true],
+  ['+234 706 830 1867', 'Dinuwa Official²⁰²³', true],
   ['94767939688', 'Dinuwa Official²⁰²³', true], 
   [''] 
 ] //Number of owners
